@@ -1,0 +1,10 @@
+1,1,1,main.x4
+2,2,1,main.x1
+3,3,1,main.x2
+4,4,1,main.x3
+5,5,0,main.mult1.c
+6,-1,0,main.mult1.a
+7,-1,0,main.mult1.b
+8,-1,0,main.mult2.c
+9,-1,0,main.mult2.a
+10,-1,0,main.mult2.b
